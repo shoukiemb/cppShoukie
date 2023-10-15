@@ -5,7 +5,7 @@
 class BookShop {
     protected:
         BookShop *bookCollection;
-       
+        
         int noOfBooksAdded = 0;
     
     public:
